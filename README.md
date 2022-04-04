@@ -9,7 +9,7 @@ Il est possible d’y accéder à l’adresse http://ph.moutou.free.fr/1ereNSI/p
 ou de le télécharger en format ZIP (bouton vert “Code” → “Download ZIP” → puis ouvrir “index.html”)
 
 
-Il est y a une mince et effrayante possibilité que le jeu ne marche pas si l’écran d‘affichage est trop petit (CSS à retravailler)
+Il y a une mince et effrayante possibilité que le jeu ne marche pas si l’écran d‘affichage est trop petit (CSS à retravailler)
 donc, au cas où, j’ai prévu un fichier “demoJeu.mkv” qui est une vidéo du rendu attendu.
 
 
