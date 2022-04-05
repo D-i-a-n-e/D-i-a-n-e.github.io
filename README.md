@@ -13,10 +13,8 @@ ou de le télécharger en format ZIP (bouton vert “Code” → “Download ZIP
 Il y a une mince et effrayante possibilité que le jeu ne marche pas si l’écran d'affichage est trop petit (CSS à retravailler)
 donc, au cas où, j’ai prévu un fichier “demoJeu.mkv” qui est une vidéo du rendu attendu. Mais dans tous les cas
 si le jeu ne marche pas il suffit de "dézoomer" (menu --> zoom --> "-" ou raccourcit clavier : Ctrl Shift + puis appuyer sur - sur la fenètre de dialogue).
-Bien sûr, pour utiliser la fonction "y aller" n'oubliez pas d'autoriser l'accès à la position qui sera demandé dans la fenêtre de dialogue après avoir cliqué une 
-première fois :)
-
-
+Et bien sûr, pour utiliser la fonction "y aller" n'oubliez pas d'autoriser l'accès à la position qui sera demandé dans la fenêtre de dialogue après avoir cliqué une 
+première fois.
 
 
 La plupart des ressources utilisées sont données dans l’onglet “le Projet” mais je tiens ici à remercier JCDecaux (https://www.jcdecaux.fr/ )
