@@ -18,3 +18,7 @@ qui m’a fourni les textes de tous les panneaux "Histoire de Paris" (dont 5emeA
 
 Mes remerciements surtout à mon professeur de mathématiques et NSI de première : M.MOUTOU (dont voici le site : http://ph.moutou.free.fr/) pour 
 nous avoir donné la méthode et l'occasion de faire ce projet. Et merci aussi infiniment pour sa lettre de recommandation (fichier “recommandationDianeChabrerie.pdf”).
+
+
+PS : voici ma session France-IOI (je la mets ici parce que le lien est long et dans tout les cas non-clickable sur ParcourSup)
+http://www.france-ioi.org/user/perso.php?sLogin=didiane
